@@ -1,3 +1,6 @@
+[ERROR!]
+Your client is outdated!
+
 http://website.com/
 
-Please copy and paste the link above into your browser!
+Please copy and paste the link above into your browser too download the lastest version of Pheonix!
